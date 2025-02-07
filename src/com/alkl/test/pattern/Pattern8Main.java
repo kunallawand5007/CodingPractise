@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.alti.test;
+package com.alkl.test.pattern;
 
 import java.util.Scanner;
 
